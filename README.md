@@ -64,30 +64,35 @@
 
 ### **Virtual Box:**
 
+![Screenshot 2025-03-28 092018](https://github.com/user-attachments/assets/ecc07a37-acd3-439a-8723-12d170ffea0b)
 
 
 ---
 
 ### **Virtual Machine (Kali Linux)**
 
+![Screenshot 2025-03-28 091426](https://github.com/user-attachments/assets/0275e391-c76b-42fa-bcfe-d8956bda5b09)
 
 
 ---
 
 ### **Autopsy**
 
+![Screenshot 2025-03-28 092304](https://github.com/user-attachments/assets/ec217ad7-175e-4938-88f4-5c4e39321883)
 
 
 ---
 
 ### **Sleuth Kit**
 
+![Screenshot 2025-03-28 092150](https://github.com/user-attachments/assets/527e5184-77d8-4a4c-af5c-c9c88616ed8e)
 
 
 ---
 
 ### **Creation of Virtual Hard Disk**
-![Screenshot 2025-03-28 091407](https://github.com/user-attachments/assets/b97b6ae4-54e1-4565-bb04-c02f752deed0)
+
+![Screenshot 2025-03-28 091407](https://github.com/user-attachments/assets/33cace62-3192-4cbf-88b5-e7fdc166cedb)
 
 
 
