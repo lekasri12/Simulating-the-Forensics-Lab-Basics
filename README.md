@@ -64,35 +64,32 @@
 
 ### **Virtual Box:**
 
-![](./images/VB.png)
+
 
 ---
 
 ### **Virtual Machine (Kali Linux)**
 
-![](./images/Kali.png)
 
-![](./images/kali1.png)
 
 ---
 
 ### **Autopsy**
 
-![](./images/autopsy.png)
+
 
 ---
 
 ### **Sleuth Kit**
 
-![](./images/s1.png)
 
-![](./images/s2.png)
 
 ---
 
 ### **Creation of Virtual Hard Disk**
+![Screenshot 2025-03-28 091407](https://github.com/user-attachments/assets/b97b6ae4-54e1-4565-bb04-c02f752deed0)
 
-![](./images/disk.png)
+
 
 ---
 
